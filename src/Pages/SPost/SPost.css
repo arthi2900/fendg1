@@ -1,0 +1,4 @@
+.spost{
+    display: flex;
+    flex-direction: row;
+}

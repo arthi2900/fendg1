@@ -1,0 +1,4 @@
+.cpost{
+    display: flex;
+    flex-direction: row;
+}
